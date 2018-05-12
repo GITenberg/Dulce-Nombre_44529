@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Concha_Espina
     - http://en.wikipedia.org/wiki/Concha_Espina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44529#Dulce-Nombre
 gutenberg_issued: '2013-12-27'
 gutenberg_type: Text
 identifiers:
